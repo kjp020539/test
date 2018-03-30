@@ -1,3 +1,4 @@
 {
-  "scripts/test_network.py": true
+  "scripts/test_network.py": true,
+  "test.py::TestA::()::test_001": true
 }
