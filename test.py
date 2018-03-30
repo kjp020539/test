@@ -14,3 +14,5 @@ class TestA():
     def test_004(self):
         assert 1
 
+    def test_005(self):
+        assert 1
