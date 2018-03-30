@@ -1,1 +1,3 @@
-[]
+[
+  "scripts/test_allure.py::TestAllure::()::test_001"
+]

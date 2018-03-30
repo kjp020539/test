@@ -1,7 +1,13 @@
 # -*- coding: utf-8 -*-
-from page.page_network import NetWork
 
-a = NetWork()
-print(a.driver)
-a.click_more()
+class TestA():
+
+    def test_001(self):
+        assert 1
+
+    def test_001(self):
+        assert 1
+
+    def test_001(self):
+        assert 0
 
